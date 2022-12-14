@@ -1,6 +1,6 @@
 
 - I’m interested in cv, modulation, data structures
--  I’m currently learning c++
+-  Down for anything python related
 -  I’m looking to collaborate on tesseract stuff
 - 
 
