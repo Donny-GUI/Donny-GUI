@@ -1,7 +1,8 @@
 
 - I’m interested in cv, modulation, data structures
 -  Down for anything python related
--  I’m looking to collaborate on tesseract stuff
+-  been writing python code everyday for almost two years
+-  I also do go and swift lol. Java was my first language
 - 
 
 <!---
