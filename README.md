@@ -1,13 +1,16 @@
 
-Self Taught Programmer
-Junior Software Engineer
-Linux / MacOs / Windows Compatible
-Python3 / C++ / GoLang / Swift / Bash / C#
 
--  I’m interested in cv, modulation, data structures
--  Down for anything python related
--  been writing python code everyday for almost two years
--  I also do go and swift.  Java was my first language
+
+✨  Self Taught Programmer
+
+✨  Junior Software Engineer
+
+✨  Linux / MacOs / Windows Compatible
+
+✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C#
+
+
+" Lets Make Computers Useful Again "
 
 
 <!---
