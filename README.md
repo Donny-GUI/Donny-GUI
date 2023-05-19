@@ -25,7 +25,7 @@
 ✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C#
 
 
-" Lets Make Computers Useful Again "
+" I only right malware, if it was helpful, it was completely by accident "
 
 
 <!---
