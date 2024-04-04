@@ -25,7 +25,7 @@
 ✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C#
 
 
-" I dream in python3 "
+" I dream in python3 but i live in C"
 
 
 <!---
