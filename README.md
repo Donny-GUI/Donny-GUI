@@ -17,15 +17,11 @@
 
 ✨  Self Taught Programmer
 
-
 ✨  Junior Software Engineer
 
-✨  Linux / MacOs / Windows Compatible
+✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C# / C / Nim / Mojo
 
-✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C#
-
-
-" I dream in python3 but i live in C"
+"If paradoxes dont exist then why are we talking about them?"
 
 
 <!---
