@@ -16,15 +16,25 @@
 
 
 ✨  Self Taught Programmer
+
 ✨  Indie Game Developer
+
 ✨  AI Overlord Aprreciator (veteran status)
+
 ✨  Google, AT&T, RCN former employee
+
 ✨  Despite my efforts, still developing for the web
+
 ✨  Python3 / C++ / Java / GoLang / Swift / Bash / C# / C / Nim / Mojo / Rust / Nvidia CUDA / .NET / PHP 
 
+
 "The protocol makes sense when you waste enough time"
+
 "The only master i commit to is Jesus Christ"
+
+
 "multi-threading is multiprocessing for felons"
+
 
 "If paradoxes dont exist, why are we talking about them?"
 
