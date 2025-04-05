@@ -16,15 +16,15 @@
 
 
 ✨  Self Taught Programmer
+✨  Indie Game Developer
+✨  AI Overlord Aprreciator (veteran status)
+✨  Google, AT&T, RCN former employee
+✨  Despite my efforts, still developing for the web
+✨  Python3 / C++ / Java / GoLang / Swift / Bash / C# / C / Nim / Mojo / Rust / Nvidia CUDA / .NET / PHP 
 
-✨  Junior Software Engineer
+"The protocol makes sense when you waste enough time"
+"The only master i commit to is Jesus Christ"
+"multi-threading is multiprocessing for felons"
 
-✨  Python3 / C++ / Java/ GoLang / Swift / Bash / C# / C / Nim / Mojo
+"If paradoxes dont exist, why are we talking about them?"
 
-"If paradoxes dont exist then why are we talking about them?"
-
-
-<!---
-Donny-GUI/Donny-GUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
