@@ -19,7 +19,7 @@
 
 ✨  Indie Game Developer
 
-✨  AI Overlord Aprreciator (veteran status)
+✨  AI Overlord Appreciator (veteran status)
 
 ✨  Google, AT&T, RCN former employee
 
