@@ -38,3 +38,5 @@
 
 "If paradoxes dont exist, why are we talking about them?"
 
+"An object has state, behavior, and identity; the structure and behavior of similar objects are defined 
+in their common class; the terms instance and object are interchangeable. " - Object Oriented Analysis and Design with Applications Edition 2
