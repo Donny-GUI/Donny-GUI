@@ -1,4 +1,4 @@
-"You asked if i have time? Brother all i have is time. "
+
 
 
 <img width="736" height="661" alt="91f6302c62b19473babd5e0380e9ce11" src="https://github.com/user-attachments/assets/df88ad6a-c53d-40b9-b47d-a4f70e9e51bd" />
@@ -114,8 +114,12 @@ The goal is to provide the accessibility of cloud software while preserving the 
 
 > "The humbling thing about a distributed system is that several computers put aside there differences for a common noble good, showing me how wrong i am"
 
+> "You asked if i have time? Brother all i have is time. "
 
-> “An object has state, behavior, and identity. The structure and behavior of similar objects are defined in their common class; the terms instance and object are interchangeable.”
+---
+
+
+ “An object has state, behavior, and identity. The structure and behavior of similar objects are defined in their common class; the terms instance and object are interchangeable.”
 > — *Object-Oriented Analysis and Design with Applications, Second Edition*
 
 ---
