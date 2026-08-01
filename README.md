@@ -73,17 +73,17 @@ Instead of requiring every company to store its information inside a centralized
 
 The project is exploring:
 
-  Encrypted local data storage
-  Secure remote database connections
-  Peer-to-peer and client-server networking
-  Public-key authentication and signed access credentials
-  Role-based permissions and revocable access keys
-  Local operation without a permanent internet connection
-  Direct synchronization between authorized devices
-  Company and database creation on user-owned hardware
-  Conflict resolution and replicated data
-  Auditable access and change history
-  Optional discovery, relay, and synchronization services without surrendering data ownership
+  * Encrypted local data storage
+  * Secure remote database connections
+  * Peer-to-peer and client-server networking
+  * Public-key authentication and signed access credentials
+  * Role-based permissions and revocable access keys
+  * Local operation without a permanent internet connection
+  * Direct synchronization between authorized devices
+  * Company and database creation on user-owned hardware
+  * Conflict resolution and replicated data
+  * Auditable access and change history
+  * Optional discovery, relay, and synchronization services without surrendering data ownership
 
 The goal is to provide the accessibility of cloud software while preserving the ownership, privacy, resilience, and independence of locally operated systems.
 
