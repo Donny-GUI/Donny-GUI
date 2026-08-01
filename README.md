@@ -64,6 +64,30 @@ An Excel-integrated cap-table management system focused on structured data entry
 
 A distributed AI-assisted radio mesh experiment involving routing, peer discovery, resilient communication, and software-defined radio.
 
+
+### Encrypted Local-First Database Platform
+
+An early-stage local-first database and business application platform that allows organizations to own and operate their data directly from their own computers.
+
+Instead of requiring every company to store its information inside a centralized cloud service, each installation can act as its own encrypted server. Authorized users can connect remotely using cryptographic access keys issued by the database owner.
+
+The project is exploring:
+
+  Encrypted local data storage
+  Secure remote database connections
+  Peer-to-peer and client-server networking
+  Public-key authentication and signed access credentials
+  Role-based permissions and revocable access keys
+  Local operation without a permanent internet connection
+  Direct synchronization between authorized devices
+  Company and database creation on user-owned hardware
+  Conflict resolution and replicated data
+  Auditable access and change history
+  Optional discovery, relay, and synchronization services without surrendering data ownership
+
+The goal is to provide the accessibility of cloud software while preserving the ownership, privacy, resilience, and independence of locally operated systems.
+
+
 ## Developer Status
 
 * ✨ Self-taught programmer
