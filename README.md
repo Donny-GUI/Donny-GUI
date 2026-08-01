@@ -14,29 +14,82 @@
 ![css3](https://user-images.githubusercontent.com/108424001/216206110-1ec361a8-e105-4dbf-b233-83a56ee43872.svg)
 ![github](https://user-images.githubusercontent.com/108424001/216206119-2c2442b4-3a02-42ab-b902-ea782c0dbc1a.svg)
 
+# Hey, I'm DJ 👋
 
-✨  Self Taught Programmer
+I'm a **self-taught software engineer** focused on building practical software, modernizing business systems, and experimenting with ambitious technical ideas.
 
-✨  Indie Game Developer
+My background includes working with **Google, AT&T, and RCN**, along with developing software for small businesses and independent projects.
 
-✨  AI Overlord Appreciator (veteran status)
+## What I Build
 
-✨  Google, AT&T, RCN former employee
+* Business applications and internal tools
+* Data ingestion and database reconstruction systems
+* Desktop and web applications
+* Automation and developer tooling
+* AI-assisted software systems
+* Indie games and experimental projects
+* Distributed systems, networking, and radio-based communication projects
 
-✨  Despite my efforts, still developing for the web
+Despite my best efforts, I am still developing for the web.
 
-✨  Python3 / C++ / Java / GoLang / Swift / Bash / C# / C / Nim / Mojo / Rust / Nvidia CUDA / .NET / PHP 
+## Languages and Technologies
+
+```text
+Python · C · C++ · C# · Go · Rust · Java · Swift
+JavaScript · TypeScript · Bash · PowerShell · PHP
+Nim · Mojo · CUDA · .NET · SQL
+```
+
+I am especially interested in:
+
+* Software architecture and system design
+* Data engineering and entity resolution
+* Graph algorithms and applied machine learning
+* Distributed systems and networking
+* Performance optimization and concurrency
+* Legacy-system modernization
+* Developer experience and tooling
+
+## Current Projects
+
+### KnowCap
+
+A modern cap-table and business-data platform designed to ingest, reconstruct, and understand complex datasets from databases, spreadsheets, documents, and legacy systems.
+
+### AesirCap
+
+An Excel-integrated cap-table management system focused on structured data entry, governance, automation, and financial workflows.
+
+### DARM
+
+A distributed AI-assisted radio mesh experiment involving routing, peer discovery, resilient communication, and software-defined radio.
+
+## Developer Status
+
+* ✨ Self-taught programmer
+* 🎮 Indie game developer
+* 🤖 AI Overlord Appreciator — veteran status
+* 🧠 Constantly learning, building, breaking, and rebuilding
+* 🌐 Reluctant but persistent web developer
+
+## Things i dont regret saying
+
+> “The protocol makes sense when you waste enough time.”
+
+> “Multithreading is multiprocessing for felons.”
+
+> “If paradoxes don't exist, why are we talking about them?”
+
+> “The only master I commit to is Jesus Christ.”
+
+> "The race condition is truly the superior race."
+
+> "The humbling thing about a distributed system is that several computers put aside there differences for a common noble good, showing me how wrong i am"
 
 
-"The protocol makes sense when you waste enough time"
+> “An object has state, behavior, and identity. The structure and behavior of similar objects are defined in their common class; the terms instance and object are interchangeable.”
+> — *Object-Oriented Analysis and Design with Applications, Second Edition*
 
-"The only master i commit to is Jesus Christ"
+---
 
-
-"multi-threading is multiprocessing for felons"
-
-
-"If paradoxes dont exist, why are we talking about them?"
-
-"An object has state, behavior, and identity; the structure and behavior of similar objects are defined 
-in their common class; the terms instance and object are interchangeable. " - Object Oriented Analysis and Design with Applications Edition 2
+**Build useful things. Understand the system. Question the abstraction.**
